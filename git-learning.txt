@@ -1,3 +1,5 @@
 1.git init
 2.git add <file> ----git add readme.txt
 3.git commit -m "xxx"   -----git commit -m "上传文件"
+4.git status 查看状态
+5.git diff 查看修改
